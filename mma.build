@@ -1,0 +1,158 @@
+<project default="build" name="mma">
+	<property name="project.FormalName" value="mma"/>
+	<property name="dir.output" value="${mma.web.bin.package}"/>
+	<mkdir dir="${dir.output}" unless="${directory::exists(dir.output)}" />
+	<property name="project.output" value="${path::combine(dir.output, project.FormalName+'.dll')}" />
+	<property name="project.debug" value="${project.output+'.'+debug.ext}"/>
+	<property name="target.type" value="library"/>
+	<if test="${not property::exists('debug')}">
+		<property name="debug" value="false" />
+	</if>
+
+	<!-- let the builder specify what they want -->
+ 	<target name="init" description="Initialize settings">
+		<mkdir dir="${dir.output}" unless="${directory::exists(dir.output)}"/>
+    	<property name="define" value="" />
+    	<property name="optimize" value="false" />
+    	<property name="incremental" value="true" />
+    	<property name="unsafe" value="/unsafe-"/>
+    	<property name="doc" value="" />
+    	<property name="removeintchecks" value="false" />
+			<if test="${debug == 'true'}">
+	    	<property name="define" value="DEBUG;TRACE;NPGSQL" />
+				<property name="optimize" value="false" />
+				<property name="incremental" value="true" />
+    		<property name="unsafe" value="/unsafe-"/>
+    		<property name="doc" value="" />
+   	 		<property name="removeintchecks" value="false" />
+			</if>
+	</target>
+
+	<!-- if we need to copy dependencies into lib dir -->
+	<target name="depends" description="Copy libraries we depend on" depends="init">
+		<!--
+		<mkdir dir="lib" unless="${directory::exists('lib')}" />
+		<copy todir="lib">
+			<fileset basedir="${path::combine(webdrv.mod, dir.output)}">
+				<include name="*"/>
+			</fileset>
+		</copy>
+		<copy todir="lib">
+			<fileset basedir="${Npgsql.mod}">
+				<include name="*"/>
+			</fileset>
+		</copy>
+		<copy todir="lib">
+			<fileset basedir="${Base.mod}">
+				<include name="*"/>
+			</fileset>
+		</copy>
+		<copy todir="lib">
+			<fileset basedir="${NLog.mod}">
+				<include name="*"/>
+			</fileset>
+		</copy>
+		<copy todir="lib">
+			<fileset basedir="${iTextSharp.mod}">
+				<include name="*"/>
+			</fileset>
+		</copy>
+		<copy todir="lib">
+			<fileset basedir="${path::combine(gui.mod, dir.output)}">
+				<include name="*"/>
+			</fileset>
+		</copy>
+		-->
+	</target>
+
+	<target name="build" description="Compile project" depends="clean, depends">
+		<csc target="${target.type}" output="${project.output}" debug="${debug}" define="${define}">
+			<arg value="${unsafe}" />
+			<sources>
+				<include name="Acct.cs" />
+				<include name="Chnl.cs" />
+				<include name="Doc.cs" />
+				<include name="Edg.cs" />
+				<include name="Ent.cs" />
+				<include name="EntInfo.cs" />
+				<include name="Geo.cs" />
+				<include name="Lang.cs" />
+				<include name="MmaEnt.cs" />
+				<include name="MsgQ.cs" />
+				<include name="Nd.cs" />
+				<include name="ItemTypeRdiMap.cs" />
+				<include name="RetCde.cs"/>
+				<include name="RDISplImplRWM.cs" />
+				<include name="Src.cs" />
+				<include name="UserInfo.cs" />
+				<include name="Usr.cs" />
+				
+				<!-- etc -->
+				<!--include name="${path::combine('etc', 'Utils.cs')}"/-->
+
+				<!-- acls -->
+				<!--include name="${path::combine('acl', 'ACL.cs')}"/-->
+
+				<!-- rdis -->
+				<include name="${path::combine('rdi', 'acctaccount.cs')}"/>
+				<include name="${path::combine('rdi', 'chnlchannel.cs')}"/>
+				<include name="${path::combine('rdi', 'docudocument.cs')}"/>
+				<include name="${path::combine('rdi', 'edgeedge.cs')}"/>
+				<include name="${path::combine('rdi', 'enttentity.cs')}"/>
+				<include name="${path::combine('rdi', 'eninentityinfo.cs')}"/>
+				<include name="${path::combine('rdi', 'geolgeolocation.cs')}"/>
+				<include name="${path::combine('rdi', 'langlanguage.cs')}"/>
+				<include name="${path::combine('rdi', 'msgqmessagequeue.cs')}"/>
+				<include name="${path::combine('rdi', 'nodenode.cs')}"/>
+				<include name="${path::combine('rdi', 'seqisequences.cs')}"/>
+				<include name="${path::combine('rdi', 'srcesource.cs')}"/>
+				<include name="${path::combine('rdi', 'useruser.cs')}"/>
+				<include name="${path::combine('rdi', 'RDISplImplRWM.cs')}"/>
+
+				<!-- compiled rdis -->
+				<include name="${path::combine('rdi_c', 'acctaccount_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'chnlchannel_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'docudocument_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'edgeedge_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'enttentity_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'eninentityinfo_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'geolgeolocation_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'langlanguage_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'msgqmessagequeue_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'nodenode_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'seqisequences_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'srcesource_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'useruser_c.cs')}"/>
+				<include name="${path::combine('rdi_c', 'RDISplImplRWM_c.cs')}"/>
+
+				<include name="${path::combine('utils', 'CsvParserLines.cs')}"/>
+				<include name="${path::combine('utils', 'DateTimeUtils.cs')}"/>
+				<!--<include name="${path::combine('utils', 'DsvTextLineParser.cs')}"/>-->
+				<include name="${path::combine('utils', 'GeoLocation.cs')}"/>
+				<include name="${path::combine('utils', 'ValidatorUtils.cs')}"/>
+			</sources>
+			<references>
+				<include name="System.dll" />
+				<include name="System.Data.dll" />
+				<include name="System.Configuration.dll" />
+				<include name="System.Xml.dll" />
+				<include name="System.Web.dll" />
+				<include name="System.Drawing.dll" />
+				<include name="${path::combine(dir.output, 'Npgsql.dll')}"/>
+				<include name="${path::combine(dir.output, 'Mono.Security.dll')}"/>
+				<include name="${path::combine(dir.output, 'base.dll')}"/>
+				<include name="${path::combine(dir.output, 'bs.dll')}"/>
+				<include name="${path::combine(dir.output, 'NLog.dll')}"/>
+				<include name="${path::combine(dir.output, 'gui.dll')}"/>
+				<include name="${path::combine(dir.output, 'pwdhasher.dll')}"/>
+				<include name="${path::combine(dir.output, 'socnetconn.dll')}"/>
+			</references>
+		</csc>
+	</target>
+
+	<target name="clean" depends="init" description="Clean up">
+		<delete file="${project.output}" if="${file::exists(project.output)}" />
+		<delete file="${project.debug}" if="${file::exists(project.debug)}" />
+		<delete dir="lib" if="${directory::exists('lib')}"/>
+	</target>
+</project>
