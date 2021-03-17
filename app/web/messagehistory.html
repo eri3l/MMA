@@ -1,0 +1,22 @@
+<link rel="import" href="packages/polymer/polymer.html" />
+<polymer-element name="message-history" attributes="data" layout vertical>
+<template>
+  <style>
+		:host {
+			display: block;
+			overflow: auto
+    }
+
+		.message-history-item {
+		}
+  </style>
+	<template repeat="{{item in data}}">
+		<div class='message-history-item'>
+		    <span>{{item.name}}</span>
+		    <span>{{item.message}}</span>
+		    <span>{{item.timestamp}}</span>
+		</div>
+	</template>
+</template>
+<script type="application/dart" src="webdrv.aspx?proc=messagehistory.dart"></script>
+</polymer-element>

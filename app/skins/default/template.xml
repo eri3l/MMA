@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<skin x="0.0" y="0.0" z="0" dx="1.0" dy="1.0" dz="0" f="0.05">
+	<position>absolute</position>
+	<margin>0</margin>
+	<background>
+		<color>#F2F2F2</color>
+		<image>url(images/bg.gif)</image>
+	</background>
+</skin>

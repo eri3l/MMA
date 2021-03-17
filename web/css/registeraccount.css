@@ -1,0 +1,13 @@
+.hp {
+	display:none;
+	width:0px;
+	height:0px
+}
+
+.statusok {
+	color:black
+}
+
+.statuserr {
+	color:red
+}

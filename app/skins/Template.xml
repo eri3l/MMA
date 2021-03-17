@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<skin name="Template" ancestor="Base">
+	<background>
+	  <color>transparent</color>
+	</background>
+ </skin>

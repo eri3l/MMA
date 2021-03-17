@@ -1,0 +1,341 @@
+2015-05-07 10:25:48.1416 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/hg/mma/deploy/package/mono/web/bin/mma.dll
+2015-05-07 10:25:48.1477 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-07 10:25:48.2280 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-07 10:25:48.2282 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/hg/mma/deploy/package/mono/web/../app/js/misc/BrowserDetect.js
+2015-05-07 10:25:48.2703 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-07 10:25:48.2809 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-07 10:25:48.2823 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/hg/mma/deploy/package/mono/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-07 10:25:48.7904 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-07 10:25:48.8131 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-07 10:25:48.8153 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-07 10:25:48.8426 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-07 10:25:48.8844 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-07 10:25:49.1260 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-07 10:25:49.5832 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.5900 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.5980 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6041 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6106 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6166 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6232 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6288 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6363 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6409 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6453 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6498 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6541 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6625 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6759 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6800 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6886 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6933 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.6983 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7026 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7065 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7137 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7215 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7259 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7290 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7342 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7381 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:25:49.7425 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:36.6397 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/hg/mma/deploy/package/mono/web/bin/mma.dll
+2015-05-07 10:39:36.6445 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-07 10:39:36.7219 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-07 10:39:36.7225 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/hg/mma/deploy/package/mono/web/../app/js/misc/BrowserDetect.js
+2015-05-07 10:39:37.4062 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-07 10:39:37.6288 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-07 10:39:37.6316 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/hg/mma/deploy/package/mono/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-07 10:39:38.4011 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-07 10:39:38.7603 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-07 10:39:38.8322 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-07 10:39:39.3085 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-07 10:39:39.5525 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-07 10:39:41.9402 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-07 10:39:44.7721 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:44.8695 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:44.9693 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.0612 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.1538 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.2350 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.3486 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.4548 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.5421 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.6492 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.7207 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.8002 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.8726 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:45.9513 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.0425 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.1198 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.2268 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.3036 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.7241 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.8184 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.8956 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:46.9836 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:47.0976 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:47.2295 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:47.3064 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:47.3977 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:47.4765 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:39:47.5528 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:48.1303 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/hg/mma/deploy/package/mono/web/bin/mma.dll
+2015-05-07 10:45:48.1350 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-07 10:45:48.2158 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-07 10:45:48.2165 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/hg/mma/deploy/package/mono/web/../app/js/misc/BrowserDetect.js
+2015-05-07 10:45:48.2607 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-07 10:45:48.2724 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-07 10:45:48.2740 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/hg/mma/deploy/package/mono/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-07 10:45:48.7835 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-07 10:45:48.8015 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-07 10:45:48.8025 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-07 10:45:48.8277 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-07 10:45:48.8488 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-07 10:45:49.0428 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-07 10:45:49.3664 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.3722 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.3809 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.3873 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4006 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4065 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4151 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4194 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4267 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4309 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4349 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4398 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4453 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4537 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4599 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4643 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4726 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4766 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4820 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4855 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4887 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.4949 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.5011 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.5055 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.5092 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.5153 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.5202 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-07 10:45:49.5254 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:58.2150 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/mmadeploy/web/bin/mma.dll
+2015-05-12 15:37:58.2198 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-12 15:37:58.3049 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-12 15:37:58.3049 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/BrowserDetect.js
+2015-05-12 15:37:58.3349 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-12 15:37:58.3544 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-12 15:37:58.3560 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-12 15:37:58.8625 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-12 15:37:58.8868 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-12 15:37:58.8881 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-12 15:37:58.9137 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-12 15:37:58.9453 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-12 15:37:59.1441 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-12 15:37:59.4832 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.4884 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5012 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5072 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5190 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5263 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5338 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5400 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5511 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5593 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5653 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5696 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5773 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5825 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5905 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.5968 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6065 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6127 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6191 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6235 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6271 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6362 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6447 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6486 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6522 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6580 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6633 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:37:59.6680 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:33.4634 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/mmadeploy/web/bin/mma.dll
+2015-05-12 15:41:33.4681 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-12 15:41:33.5463 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-12 15:41:33.5469 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/BrowserDetect.js
+2015-05-12 15:41:33.6097 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-12 15:41:33.6252 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-12 15:41:33.6269 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-12 15:41:34.1389 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-12 15:41:34.1738 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-12 15:41:34.1783 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-12 15:41:34.2057 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-12 15:41:34.2385 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-12 15:41:34.4942 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-12 15:41:34.8845 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.8911 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9046 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9128 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9211 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9296 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9378 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9451 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9515 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9555 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9592 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9633 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9705 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9751 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9865 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:34.9940 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0029 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0066 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0134 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0179 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0217 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0289 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0348 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0389 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0440 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0508 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0552 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:41:35.0595 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:43.0541 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/mmadeploy/web/bin/mma.dll
+2015-05-12 15:44:43.0586 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-12 15:44:43.1429 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-12 15:44:43.1429 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/BrowserDetect.js
+2015-05-12 15:44:43.1749 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-12 15:44:43.1925 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-12 15:44:43.1940 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-12 15:44:43.7070 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-12 15:44:43.7301 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-12 15:44:43.7311 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-12 15:44:43.7602 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-12 15:44:43.7937 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-12 15:44:43.9933 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-12 15:44:44.3216 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3287 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3459 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3545 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3640 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3734 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3788 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3850 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.3940 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4000 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4048 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4124 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4168 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4252 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4341 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4384 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4438 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4492 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4541 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4599 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4655 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4744 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4807 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4851 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4888 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.4958 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.5010 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-12 15:44:44.5075 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:54.7784 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/mmadeploy/web/bin/mma.dll
+2015-05-13 14:32:54.7833 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-13 14:32:54.8640 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-13 14:32:54.8640 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/BrowserDetect.js
+2015-05-13 14:32:54.9051 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-13 14:32:54.9199 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-13 14:32:54.9216 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-13 14:32:55.4247 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-13 14:32:55.4536 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-13 14:32:55.4560 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-13 14:32:55.4793 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-13 14:32:55.5229 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-13 14:32:55.7729 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-13 14:32:56.3479 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3557 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3668 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3738 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3814 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3876 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3942 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.3989 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4052 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4099 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4141 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4186 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4229 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4278 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4413 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4485 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4592 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4630 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4684 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4718 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4750 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4799 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4847 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4881 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4910 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.4952 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.5005 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 14:32:56.5101 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:46.6673 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/mmadeploy/web/bin/mma.dll
+2015-05-13 15:01:46.6721 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2015-05-13 15:01:46.7501 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2015-05-13 15:01:46.7501 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/BrowserDetect.js
+2015-05-13 15:01:46.7938 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2015-05-13 15:01:46.8094 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2015-05-13 15:01:46.8108 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/bootloaderstage2.2.js
+2015-05-13 15:01:47.3189 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2015-05-13 15:01:47.3448 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2015-05-13 15:01:47.3473 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2015-05-13 15:01:47.3885 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2015-05-13 15:01:47.4122 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-13 15:01:47.6027 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2015-05-13 15:01:47.9301 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9353 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9492 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9557 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9633 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9734 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9799 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9848 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9918 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:47.9985 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0043 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0098 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0147 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0241 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0310 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0349 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0431 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0471 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0520 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0556 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0602 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0653 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0707 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0741 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0774 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0829 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0871 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2015-05-13 15:01:48.0918 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request getclass
+2016-01-09 22:34:33.4614 bs.item.gui.Reflection [INFO]: >>> Assembly : /home/aeye/mmadeploy/web/bin/mma.dll
+2016-01-09 22:34:33.4654 bs.item.gui.Reflection [INFO]: >>> Type : app.mma.Ent
+2016-01-09 22:34:33.6277 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage1
+2016-01-09 22:34:33.6282 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/BrowserDetect.js
+2016-01-09 22:34:33.6740 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request bootloaderstage2.1
+2016-01-09 22:34:33.6990 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request hostframe
+2016-01-09 22:34:33.7003 bs.item.gui.driver.web.WebDrv [INFO]: Include /home/aeye/mmadeploy/web/../app/js/misc/bootloaderstage2.2.js
+2016-01-09 22:34:34.2239 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request contentframe
+2016-01-09 22:34:34.2635 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request NgGridWrapper.js
+2016-01-09 22:34:34.2656 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request gelements.dart
+2016-01-09 22:34:34.2947 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.html
+2016-01-09 22:34:34.3062 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart
+2016-01-09 22:34:34.4178 bs.item.gui.driver.web.WebDrv [INFO]: Dispatch: request messagehistory.dart

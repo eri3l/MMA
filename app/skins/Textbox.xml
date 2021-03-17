@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<skin name="Textbox" ancestor="Base">
+  <background>
+    <color>rgb(191, 191, 191)</color>
+  </background>
+  <font>
+    <family>Verdana,Arial,Helvetica,sans-serif</family>
+  </font>
+  <border>
+    <bottom>
+      <color>rgb(156, 156, 156)</color>
+      <style>solid</style>
+      <width>1px</width>
+    </bottom>
+    <left>
+      <color>rgb(156, 156, 156)</color>
+      <style>solid</style>
+      <width>1px</width>
+    </left>
+    <right>
+      <color>rgb(156, 156, 156)</color>
+      <style>solid</style>
+      <width>1px</width>
+    </right>
+    <top>
+      <color>rgb(156, 156, 156)</color>
+      <style>solid</style>
+      <width>1px</width>
+    </top>
+  </border>
+</skin>

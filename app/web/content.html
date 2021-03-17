@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta name="keywords" content=""/>
+	<style type="text/css">@import url(ng/ng-grid.css);</style>
+	<style type="text/css">@import url(select2/select2-bootstrap.css);</style>
+	<style type="text/css">@import url(select2/select2.css);</style>
+	<script src="packages/web_components/platform.js"></script>
+  <script src="packages/web_components/dart_support.js"></script>
+  <link rel="import" href="packages/paper_elements/paper_button.html">
+	<link rel="import" href="packages/paper_elements/paper_input.html">
+	<link rel="import" href="webdrv.aspx?proc=messagehistory.html">
+	<script type="text/javascript" src="jquery/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="ng/angular.js"></script>
+	<script type="text/javascript" src="ng/ng-grid.js"></script>
+	<script type="text/javascript" src="webdrv.aspx?proc=NgGridWrapper.js"></script>
+	<script type="text/javascript" src="select2/select2.js"></script>
+	<script type="text/javascript">
+		elementclassPool = {};
+		ngGridWrapper = new NgGridWrapper();
+
+		function rootStart() {
+			console.log('rootStart');
+			var HF = top.frames['hostframe'];
+
+			if (!HF.HostInitialised) {
+				console.log('run rootStart in a bit');
+				setTimeout(rootStart, 5000);
+			} else {
+				console.log('run rootStart now');
+				ngGridWrapper.initApp();
+				HF.HostObject.Registry.register('main', HF.ALIAS_TYPE.ITEM, undefined);
+				rootObj = HF.HostObject.Registry.resolve('main', HF.ALIAS_TYPE.ITEM, 'main')[0].ref;
+				rootObj.setCritAndParams();
+				rootObj.refresh();
+				rootObj.buildSubtree();
+				rootObj.redraw();
+			}
+		}
+	</script>
+</head>
+<body topmargin="0" leftmargin="0" style="margin: 0;">
+<script src="webdrv.aspx?proc=gelements.dart" type="application/dart"></script>
+</body>
+</html>
